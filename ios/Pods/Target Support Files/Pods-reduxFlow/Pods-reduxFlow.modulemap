@@ -1,0 +1,6 @@
+module Pods_reduxFlow {
+  umbrella header "Pods-reduxFlow-umbrella.h"
+
+  export *
+  module * { export * }
+}
